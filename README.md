@@ -19,7 +19,36 @@
 
 <div align="left">
 
-## Trade OtoBot Nedir :thinking:
-## Lisans
+## Trade OtoBot Nedir?
+Trade OtoBot, Finans piyasalarıyla uğraşan kullancılar için yardımcı araç/enstrümanlar sağlayan bir uygulama paketidir. İçerisinde temel olarak; * **[Ürün Tarayıcı](#ürün-tarayıcı), Hacim Değişim Profilleri, Sinyaller, OtoTrade gb. özellikler sunmaktadır.
 
-Pynecone is open-source and licensed under the [ GNU GPL -3.0 ](LICENSE).
+## Amacı
+Sağladığı araçlarla önceliğini Kripto Para piyasasına odaklayan ve kullanıcılar için açık kaynaklı ve kazanç sağlayabileceği bir ürün haline getirmektir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## License
+
+Trade OtoBot is open-source and licensed under the [ GNU GPL -3.0 ](LICENSE).
+
+# Ürün Tarayıcı
