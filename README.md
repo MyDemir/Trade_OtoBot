@@ -20,7 +20,7 @@
 <div align="left">
 
 ## Trade OtoBot Nedir?
-Trade OtoBot, Finans piyasalarıyla uğraşan kullancılar için yardımcı araç/enstrümanlar sağlayan bir uygulama paketidir. İçerisinde temel olarak; * **[Ürün Tarayıcı](#ürün-tarayıcı), Hacim Değişim Profilleri, Sinyaller, OtoTrade gb. özellikler sunmaktadır.
+Trade OtoBot, Finans piyasalarıyla uğraşan kullancılar için yardımcı araç/enstrümanlar sağlayan bir uygulama paketidir. İçerisinde temel olarak; * **[Ürün Tarayıcı](#ürün-tarayıcı)**, Hacim Değişim Profilleri, Sinyaller, OtoTrade gb. özellikler sunmaktadır.
 
 ## Amacı
 Sağladığı araçlarla önceliğini Kripto Para piyasasına odaklayan ve kullanıcılar için açık kaynaklı ve kazanç sağlayabileceği bir ürün haline getirmektir.
