@@ -19,4 +19,7 @@
 
 <div align="left">
 
-###Trade Oto Bot:thinking:
+## Trade Oto Bot:thinking:
+## License
+
+Pynecone is open-source and licensed under the [ GNU GPL -3.0 ](LICENSE).
