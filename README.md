@@ -51,4 +51,4 @@ Sağladığı araçlarla önceliğini Kripto Para piyasasına odaklayan ve kulla
 
 Trade OtoBot is open-source and licensed under the [ GNU GPL -3.0 ](LICENSE).
 
-# Ürün Tarayıcı
+## Ürün Tarayıcı
