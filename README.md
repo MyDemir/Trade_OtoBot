@@ -23,11 +23,19 @@
 Trade_OtoBot, Finans piyasalarıyla uğraşan kullancılar için yardımcı araç/enstrümanlar sağlayan bir uygulama paketidir. İçerisinde temel olarak; **[Ürün Tarayıcı](#ürün-tarayıcı)**, **[Sinyaller](#sinyaller)**, **[OtoTrade](#ototrade)**  gb. özellikler sunmaktadır.
 
 ## Trade_OtoBot Amacı Nedir?
-Sağladığı araçlarla önceliğini Kripto Para piyasasına odaklayan ve kullanıcılar için açık kaynaklı ve kazanç sağlayabileceği bir ürün haline getirmektir.
+Sağladığı araçlarla önceliğini Kripto Para piyasasına odaklayan ve son kullanıcılar için açık kaynaklı ve kazanç sağlayabileceği bir ürün haline getirmektir.
 
 ## Trade_OtoBot'un Barındırdığı Özellikler Nelerdir?
 ### Ürün Tarayıcı
-Kripto para birimi piyasalarında kullanıcıların takip edebileceği bazı temel verileri sunmayı sağlar. 
+Kripto para birimi piyasalarında kullanıcıların takip edebileceği bazı temel verileri sunmayı sağlar. Bunlardan bir kaçı şunlardır:
+* **İşlem hacmi**: Belirli bir süre içinde gerçekleşen tüm alım satım işlemlerinin toplam değeridir. İşlem hacmi, piyasanın ne kadar likit olduğunu gösterir ve piyasa katılımcılarının taleplerini yansıtır.
+* **Piyasa kapitalizasyonu**: Bir kripto para biriminin toplam arzının, mevcut fiyatına göre hesaplanan toplam piyasa değeridir. Piyasa kapitalizasyonu, bir kripto para biriminin popüleritesini ve piyasada ne kadar değerli olduğunu gösterir.
+* **Fiyat değişimleri**: Belirli bir süre içinde kripto para biriminin fiyatındaki değişimi gösterir. Fiyat değişimleri, piyasanın volatilitesini ve kripto para birimi piyasalarındaki yatırım fırsatlarını gösterir.
+* **Satış limitleri**: Belirli bir fiyat seviyesinde satışa sunulan kripto para birimi miktarını gösterir. Satış limitleri, piyasa katılımcılarının talep düzeylerini gösterir ve fiyat hareketlerini etkileyebilir.
+* **Alım limitleri**: Belirli bir fiyat seviyesinde alım için talep edilen kripto para birimi miktarını gösterir. Alım limitleri, piyasa katılımcılarının talep düzeylerini gösterir ve fiyat hareketlerini etkileyebilir.
+* **Spread**: Belirli bir kripto para birimi çiftindeki alış ve satış fiyatları arasındaki farktır. Spread, piyasa katılımcılarının fiyat taleplerini gösterir ve likidite düzeyini etkileyebilir.
+* **Sipariş defteri**: Piyasada bekleyen alım ve satım emirlerini gösterir. Sipariş defteri, piyasa katılımcılarının işlem stratejilerini belirlemelerine yardımcı olur.
+
 ### Sinyaller
 
 ### OtoTrade
