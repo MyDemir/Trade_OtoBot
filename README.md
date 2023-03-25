@@ -25,7 +25,7 @@ Trade_OtoBot, Finans piyasalarıyla uğraşan kullancılar için yardımcı ara�
 ## Trade_OtoBot Amacı Nedir?
 Sağladığı araçlarla önceliğini Kripto Para piyasasına odaklayan ve son kullanıcılar için açık kaynaklı ve kazanç sağlayabileceği bir ürün haline getirmektir.
 
-## :telescope: Trade_OtoBot'un Barındırdığı Özellikler Nelerdir?
+## :telescope: Trade_OtoBot'un Barındırdığı Özellikler Nelerdir? :telescope:
 ### Ürün Tarayıcı
 Kripto para birimi piyasalarında kullanıcıların takip edebileceği bazı temel verileri sunmayı amaçlar. Bunlardan bir kaçı şunlardır:
 * **İşlem hacmi**: Belirli bir süre içinde gerçekleşen tüm alım satım işlemlerinin toplam değeridir. İşlem hacmi, piyasanın ne kadar likit olduğunu gösterir ve piyasa katılımcılarının taleplerini yansıtır.
