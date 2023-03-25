@@ -39,7 +39,7 @@ Kripto para birimi piyasalarında kullanıcıların takip edebileceği bazı tem
 ### Sinyaller
 Kripto para sinyalleri, bir kripto para biriminin alım veya satımı için önerilen belirli bir fiyat seviyesi veya zaman aralığıdır. Bu sinyaller genellikle teknik analiz veya temel analiz yöntemleri kullanılarak oluşturulur ve kripto para yatırımcılarına, ticaret stratejilerine rehberlik etmeleri için yardımcı olurlar.
 
-asdadad
+Kullanılan bazı **teknik göstergeler** şunlardır; [RSI](https://tr.tradingview.com/education/relativestrengthindex/?solution=43000502338),
 ### OtoTrade
 
 
