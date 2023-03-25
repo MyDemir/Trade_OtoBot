@@ -25,8 +25,8 @@ Trade_OtoBot, Finans piyasalarıyla uğraşan kullancılar için yardımcı ara�
 ## Trade_OtoBot Amacı Nedir?
 Sağladığı araçlarla önceliğini Kripto Para piyasasına odaklayan ve kullanıcılar için açık kaynaklı ve kazanç sağlayabileceği bir ürün haline getirmektir.
 
-# Trade_OtoBot'un Barındırdığı Özellikler Nelerdir?
-## Ürün Tarayıcı
+## Trade_OtoBot'un Barındırdığı Özellikler Nelerdir?
+### Ürün Tarayıcı
 Kripto para birimi piyasalarında kullanıcıların takip edebileceği bazı temel verileri sunmayı sağlar. 
 ## Sinyaller
 
