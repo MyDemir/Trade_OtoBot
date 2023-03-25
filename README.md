@@ -28,9 +28,9 @@ Sağladığı araçlarla önceliğini Kripto Para piyasasına odaklayan ve kulla
 ## Trade_OtoBot'un Barındırdığı Özellikler Nelerdir?
 ### Ürün Tarayıcı
 Kripto para birimi piyasalarında kullanıcıların takip edebileceği bazı temel verileri sunmayı sağlar. 
-## Sinyaller
+### Sinyaller
 
-## OtoTrade
+### OtoTrade
 
 
 
