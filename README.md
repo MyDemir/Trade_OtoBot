@@ -27,7 +27,7 @@ Sağladığı araçlarla önceliğini Kripto Para piyasasına odaklayan ve son k
 
 ## Trade_OtoBot'un Barındırdığı Özellikler Nelerdir?
 ### Ürün Tarayıcı
-Kripto para birimi piyasalarında kullanıcıların takip edebileceği bazı temel verileri sunmayı sağlar. Bunlardan bir kaçı şunlardır:
+Kripto para birimi piyasalarında kullanıcıların takip edebileceği bazı temel verileri sunmayı amaçlar. Bunlardan bir kaçı şunlardır:
 * **İşlem hacmi**: Belirli bir süre içinde gerçekleşen tüm alım satım işlemlerinin toplam değeridir. İşlem hacmi, piyasanın ne kadar likit olduğunu gösterir ve piyasa katılımcılarının taleplerini yansıtır.
 * **Piyasa kapitalizasyonu**: Bir kripto para biriminin toplam arzının, mevcut fiyatına göre hesaplanan toplam piyasa değeridir. Piyasa kapitalizasyonu, bir kripto para biriminin popüleritesini ve piyasada ne kadar değerli olduğunu gösterir.
 * **Fiyat değişimleri**: Belirli bir süre içinde kripto para biriminin fiyatındaki değişimi gösterir. Fiyat değişimleri, piyasanın volatilitesini ve kripto para birimi piyasalarındaki yatırım fırsatlarını gösterir.
@@ -37,7 +37,9 @@ Kripto para birimi piyasalarında kullanıcıların takip edebileceği bazı tem
 * **Sipariş defteri**: Piyasada bekleyen alım ve satım emirlerini gösterir. Sipariş defteri, piyasa katılımcılarının işlem stratejilerini belirlemelerine yardımcı olur.
 
 ### Sinyaller
+Kripto para sinyalleri, bir kripto para biriminin alım veya satımı için önerilen belirli bir fiyat seviyesi veya zaman aralığıdır. Bu sinyaller genellikle teknik analiz veya temel analiz yöntemleri kullanılarak oluşturulur ve kripto para yatırımcılarına, ticaret stratejilerine rehberlik etmeleri için yardımcı olurlar.
 
+asdadad
 ### OtoTrade
 
 
