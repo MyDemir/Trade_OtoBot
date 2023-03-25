@@ -39,7 +39,10 @@ Kripto para birimi piyasalarında kullanıcıların takip edebileceği bazı tem
 ### Sinyaller
 Kripto para sinyalleri, bir kripto para biriminin alım veya satımı için önerilen belirli bir fiyat seviyesi veya zaman aralığıdır. Bu sinyaller genellikle teknik analiz veya temel analiz yöntemleri kullanılarak oluşturulur ve kripto para yatırımcılarına, ticaret stratejilerine rehberlik etmeleri için yardımcı olurlar.
 
-Kullanılan bazı **teknik göstergeler** şunlardır; [RSI](https://tr.tradingview.com/education/relativestrengthindex/?solution=43000502338),
+Kullanılan bazı **teknik göstergeler** şunlardır; [RSI](https://tr.tradingview.com/education/relativestrengthindex/?solution=43000502338), [MACD](https://www.tradingview.com/support/solutions/43000502344-macd-moving-average-convergence-divergence/), [STOCH](https://www.tradingview.com/support/solutions/43000502332-stochastic-stoch/), [VORTEX](https://www.tradingview.com/support/solutions/43000591352-vortex-indicator/), [CCI](https://www.tradingview.com/support/solutions/43000502001-commodity-channel-index-cci/) ..
+
+Kulanılan bazı **haber temelli temel veriler** şunlardır; [Yoyodex](https://yoyodex.io/), [Ninjanews](https://ninjanews.io/tr/), [Uzmancoin](https://uzmancoin.com/), [DB NEWSWIRE](https://www.dbnewswire.com/), [Coindesk](https://www.coindesk.com/), [Cointelegraph](https://cointelegraph.com/), [Coinmarketcap](https://coinmarketcap.com/tr/)..
+
 ### OtoTrade
 
 
