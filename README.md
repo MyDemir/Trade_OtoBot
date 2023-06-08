@@ -17,13 +17,16 @@
 
 <div align="left">
 
-## Trade_OtoBot Nedir?
-Trade_OtoBot, Finans piyasalarıyla uğraşan kullancılar için yardımcı araç/enstrümanlar sağlayan bir uygulama paketidir. İçerisinde temel olarak; **[Ürün Tarayıcı](#ürün-tarayıcı)**, **[Sinyaller](#sinyaller)**, **[OtoTrade](#ototrade)**  gb. özellikler sunmaktadır.
+## Trade_Tools Nedir?
+<h1 align="center">
+  <img width="500" src="docs/Images/Anaekran.png#gh-light-mode-only" alt="Trade OtoBot Logo">
+</h1>
+Trade_Tools, Finans piyasalarıyla uğraşan kullancılar için yardımcı araç/enstrümanlar sağlayan bir uygulama paketidir. İçerisinde temel olarak; **[Ürün Tarayıcı](#ürün-tarayıcı)**, **[Sinyaller](#sinyaller)**, **[OtoTrade](#ototrade)**  gb. özellikler sunmaktadır.
 
-## Trade_OtoBot Amacı Nedir?
+## Trade_Tools Amacı Nedir?
 Sağladığı araçlarla önceliğini Kripto Para piyasasına odaklayan ve son kullanıcılar için açık kaynaklı ve kazanç sağlayabileceği bir ürün haline getirmektir.
 
-## :telescope: Trade_OtoBot'un Barındırdığı Özellikler Nelerdir? :telescope:
+## :telescope: Trade_Tools'un Barındırdığı Özellikler Nelerdir? :telescope:
 ### Ürün Tarayıcı
 Kripto para birimi piyasalarında kullanıcıların takip edebileceği bazı temel verileri sunmayı amaçlar. Bunlardan bir kaçı şunlardır:
 * **İşlem hacmi**: Belirli bir süre içinde gerçekleşen tüm alım satım işlemlerinin toplam değeridir. İşlem hacmi, piyasanın ne kadar likit olduğunu gösterir ve piyasa katılımcılarının taleplerini yansıtır.
