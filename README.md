@@ -4,7 +4,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img width="600" src="docs/Images/oto_bot.jpg#gh-light-mode-only" alt="Trade Tools">
+  <img width="50" src="docs/Images/oto_bot.jpg#gh-light-mode-only" alt="Trade Tools">
 </h1>
 <b>Sit back and watch the bot make trades..</b>
 
@@ -18,8 +18,8 @@
 <div align="left">
 
 ## Trade_Tools Nedir?
-<h1 align="center">
-  <img width="600" src="docs/Images/Anaekran.png#gh-light-mode-only" alt="Trade Tools">
+<h1>
+  <img width="600" src="docs/Images/Main.png#gh-light-mode-only" alt="Trade Tools">
 </h1>
 Trade_Tools, Finans piyasalarıyla uğraşan kullancılar için yardımcı araç/enstrümanlar sağlayan bir uygulama paketidir. İçerisinde temel olarak; **[Ürün Tarayıcı](#ürün-tarayıcı)**, **[Sinyaller](#sinyaller)**, **[OtoTrade](#ototrade)**  gb. özellikler sunmaktadır.
 
