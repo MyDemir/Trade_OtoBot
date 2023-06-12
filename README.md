@@ -4,7 +4,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img width="50" src="docs/Images/oto_bot.jpg#gh-light-mode-only" alt="Trade Tools">
+  <img width="100" src="docs/Images/oto_bot.jpg#gh-light-mode-only" alt="Trade Tools">
 </h1>
 <b>Sit back and watch the bot make trades..</b>
 
@@ -21,6 +21,7 @@
 <h1 align="left">
   <img width="600" src="docs/Images/Main.png#gh-light-mode-only" alt="Trade Tools">
 </h1>
+
 Trade_Tools, Finans piyasalarıyla uğraşan kullancılar için yardımcı araç/enstrümanlar sağlayan bir uygulama paketidir. İçerisinde temel olarak; **[Ürün Tarayıcı](#ürün-tarayıcı)**, **[Sinyaller](#sinyaller)**, **[OtoTrade](#ototrade)**  gb. özellikler sunmaktadır.
 
 ## Trade_Tools Amacı Nedir?
@@ -44,6 +45,10 @@ Kullanılan bazı **teknik göstergeler** şunlardır; [RSI](https://tr.tradingv
 Kulanılan bazı **haber temelli temel veriler** şunlardır; [Yoyodex](https://yoyodex.io/), [Ninjanews](https://ninjanews.io/tr/), [Uzmancoin](https://uzmancoin.com/), [DB NEWSWIRE](https://www.dbnewswire.com/), [Coindesk](https://www.coindesk.com/), [Cointelegraph](https://cointelegraph.com/), [Coinmarketcap](https://coinmarketcap.com/tr/)..
 
 ### OtoTrade
+<h1 align="left">
+  <img width="600" src="uml/MainUml.png#gh-light-mode-only" alt="Trade Tools">
+</h1>
+
 Kullanıcılar, oluşturulmuş algoritmik stratejilerle bu alanda işlem yapabilmelerine olanak sağlanır. Bu alanda alım satım işlemlerini, istatistiklerini, log kayıtlarını vb. bilgilere erişim sağlayabileceklerdir..
 
 
