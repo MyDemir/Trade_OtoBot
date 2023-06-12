@@ -18,7 +18,7 @@
 <div align="left">
 
 ## Trade_Tools Nedir?
-<h1>
+<h1 align="left">
   <img width="600" src="docs/Images/Main.png#gh-light-mode-only" alt="Trade Tools">
 </h1>
 Trade_Tools, Finans piyasalarıyla uğraşan kullancılar için yardımcı araç/enstrümanlar sağlayan bir uygulama paketidir. İçerisinde temel olarak; **[Ürün Tarayıcı](#ürün-tarayıcı)**, **[Sinyaller](#sinyaller)**, **[OtoTrade](#ototrade)**  gb. özellikler sunmaktadır.
