@@ -51,20 +51,17 @@ Kulanılan bazı **haber temelli temel veriler** şunlardır; [Yoyodex](https://
 
 Kullanıcılar, oluşturulmuş algoritmik stratejilerle bu alanda işlem yapabilmelerine olanak sağlanır. Bu alanda alım satım işlemlerini, istatistiklerini, log kayıtlarını vb. bilgilere erişim sağlayabileceklerdir..
 
+## Trade_Tools Geliştirilme Süreci
+Sağladığı araçlarla önceliğini Kripto Para piyasasına odaklayan ve açık kaynak olarak geliştirilmesi planan bu araç kiti aşağıdaki süreçlerden geçecektir. 
 
+1-Ön Yüz (UI/GUİ)
+Figma ile görsel tasarımı, QT ile platformlar arası (PC,MOBİL,WEB etc..) arayüz tasarlanacaktır.
 
+2-Arka plan(BACKEND)
+Yazılım dili olarak PYTHON tercih edilmiştir. Nedeni piyasalar ile ilgili açık kütüphaneleri ve kullanım kolaylığı.
 
-
-
-
-
-
-
-
-
-
-
-
+3-Alt Yapı
+Senkronizasyon ve sağladığı kullanım kolaylığı nedeniyle MONGODB, verilerin işlenmesi, hızı ve istikrarı açısından tercih edilmiştir. 
 
 ## License
 
